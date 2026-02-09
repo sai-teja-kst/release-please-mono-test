@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "apps/web": {
+      "release-type": "node"
+    },
+    "apps/docs": {
+      "release-type": "node"
+    }
+  }
+}

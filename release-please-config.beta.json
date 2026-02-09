@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "apps/web": {
+      "release-type": "node",
+      "prerelease": true,
+      "prerelease-type": "beta"
+    },
+    "apps/docs": {
+      "release-type": "node",
+      "prerelease": true,
+      "prerelease-type": "beta"
+    }
+  }
+}
