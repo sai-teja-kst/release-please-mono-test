@@ -1,11 +1,11 @@
 {
   "packages": {
-    "apps/web": {
+    "apps/client": {
       "release-type": "node",
       "prerelease": true,
       "prerelease-type": "beta"
     },
-    "apps/docs": {
+    "apps/server": {
       "release-type": "node",
       "prerelease": true,
       "prerelease-type": "beta"
