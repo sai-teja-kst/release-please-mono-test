@@ -1,9 +1,9 @@
 {
   "packages": {
-    "apps/web": {
+    "apps/client": {
       "release-type": "node"
     },
-    "apps/docs": {
+    "apps/server": {
       "release-type": "node"
     }
   }
